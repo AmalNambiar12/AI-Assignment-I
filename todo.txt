@@ -1,0 +1,4 @@
+Try and fix import errors later.
+Rename the variable opti
+Get rid of self.X since you can get it by default.
+string formatting
